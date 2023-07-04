@@ -1,6 +1,7 @@
 num1 = 120
 num2 = 4000
 num3 = 3000
+num5 = 8000
 num4=8000
 if num1>num2 and num1>num3 and num1>num4:
     print(num1)
